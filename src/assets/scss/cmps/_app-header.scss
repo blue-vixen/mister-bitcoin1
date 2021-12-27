@@ -1,0 +1,16 @@
+.app-header {
+    background: #03A9F4;
+    
+    .container {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    a {
+        margin-inline-start: 10px;
+    }
+
+    .my-active {
+        color: white;
+    }
+}
